@@ -7,14 +7,17 @@ I am a passionate Software Developer focused on building high-performance, scala
 ---
 
 ### 🌟 Featured Projects
-- **Cretaceous Protocol**: An AI-powered engine generating 16-bit prehistoric pixel art.
+- **[Cretaceous Protocol](https://github.com/Juansegomezn/cretaceous-protocol)**: AI-powered Survival Terminal.
+  >
+  ![Activity](https://img.shields.io/badge/Traffic-100%2B%20clones/week-brightgreen?style=flat-square&logo=github) 
+  ![Status](https://img.shields.io/badge/Status-Trending%20Org-orange?style=flat-square)
 - **Umbral Circle**: High-performance social platform built with React Query and MySQL.
 - **Modern Portfolio**: Engineered with **React 19**, **Vite 7**, and **Tailwind CSS v4**.
 
 ### 🌱 Current Focus
-- ⚡ **Performance:** Transitioning from standard LLMs to high-speed inference with **Groq**.
+- ⚡ **Inference Speed:** Optimizing LLM response times using **Groq** for real-time terminal interactions.
 - 🏗️ **Architecture:** Scaling **Laravel** backends with robust **MySQL** design.
-- 🎨 **UX/UI:** Crafting fluid interfaces with **Framer Motion**.
+- 🎨 **UX/UI:** Crafting fluid, immersive interfaces with **Framer Motion**.
 
 ### 🛠️ Tech Stack
 | Category | Technologies |
