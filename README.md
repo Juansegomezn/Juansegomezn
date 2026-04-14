@@ -25,7 +25,7 @@ I am a passionate Software Developer focused on building high-performance, scala
 | **Frontend** | React 19, Next.js, JavaScript, TypeScript, Tailwind CSS, Sass, Redux, Framer Motion, Material UI, Bootstrap |
 | **Backend** | Node.js, Express, PHP, Laravel, Java |
 | **Databases** | MySQL, PostgreSQL, SQL |
-| **AI / Tools** | Groq, Llama 3, Vercel AI SDK, Google Gemini, Docker, Vitest |
+| **AI / Tools** | Groq, Llama 3, Vercel AI SDK, Google Gemini, Docker, Git, GitLab |
 
 ---
 
