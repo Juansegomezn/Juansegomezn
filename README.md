@@ -12,7 +12,7 @@ I am a passionate Software Developer focused on building high-performance, scala
   ![Activity](https://img.shields.io/badge/Traffic-200%2B%20clones/week-brightgreen?style=flat-square&logo=github) 
   ![Status](https://img.shields.io/badge/Status-Trending%20Org-orange?style=flat-square)
 - **[Umbral Circle](https://github.com/Juansegomezn/umbral-circle)**: High-performance social platform built with React Query and MySQL.
-- **Modern Portfolio**: Engineered with **React 19**, **Vite 7**, and **Tailwind CSS v4**.
+- **[Modern Portfolio](https://juangomez-portfolio.vercel.app/)**: Created with **React 19**, **Vite 7**, and **Tailwind CSS v4**.
 
 ### 🌱 Current Focus
 - ⚡ **Inference Speed:** Optimizing LLM response times using **Groq** for real-time terminal interactions.
