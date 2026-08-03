@@ -31,7 +31,7 @@ I am a passionate Software Developer focused on building high-performance, scala
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Juansegomezn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Juansegomezn&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="49%" />
 </p>
 
 ---
